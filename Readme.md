@@ -19,7 +19,7 @@ assets/
 ```
 
 ```markdown
-![Calculator Screenshot](/assets/screenshot.png)
+![Calculator Screenshot](./assets/screenshot.png)
 ```
 
 ---
