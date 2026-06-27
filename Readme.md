@@ -11,16 +11,7 @@ A modern, responsive calculator built with **HTML5**, **CSS3**, and **Vanilla Ja
 
 ## 📸 Preview
 
-> Add a screenshot after deploying your project.
-
-```text
-assets/
-└── screenshot.png
-```
-
-```markdown
 ![Calculator Screenshot](./assets/screenshot.png)
-```
 
 ---
 
