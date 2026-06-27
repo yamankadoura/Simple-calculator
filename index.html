@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Professional Calculator</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="app">
+        <header>
+            <h1>Professional Calculator</h1>
+            <button id="themeBtn">🌙</button>
+        </header>
+
+        <div class="card">
+            <input
+                id="num1"
+                type="number"
+                placeholder="First number"
+            >
+
+            <input
+                id="num2"
+                type="number"
+                placeholder="Second number"
+            >
+
+            <div class="grid">
+                <button data-op="+">+</button>
+                <button data-op="-">−</button>
+                <button data-op="*">×</button>
+                <button data-op="/">÷</button>
+
+                <button data-op="%">%</button>
+                <button id="square">x²</button>
+                <button id="sqrt">√x</button>
+                <button id="clear">C</button>
+            </div>
+
+            <h2 id="result">Result: 0</h2>
+
+            <div class="actions">
+              <button id="copy">Copy Result</button>
+              <button id="clearHistory">Clear History</button>
+          </div>
+
+            <h3>History</h3>
+            <ul id="history"></ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
