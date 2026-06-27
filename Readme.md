@@ -16,9 +16,6 @@ A modern, responsive calculator built with **HTML5**, **CSS3**, and **Vanilla Ja
 ---
 
 ## 🚀 Live Demo
-
-After enabling GitHub Pages:
-
 https://yamankadoura.github.io/simple-calculator/
 
 ---
@@ -74,7 +71,7 @@ simple-calculator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/simple-calculator.git
+git clone https://github.com/yamankadoura/simple-calculator.git
 ```
 
 Navigate into the project:
