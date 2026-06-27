@@ -16,7 +16,8 @@ A modern, responsive calculator built with **HTML5**, **CSS3**, and **Vanilla Ja
 ---
 
 ## 🚀 Live Demo
-https://yamankadoura.github.io/simple-calculator/
+
+[Open the Calculator](https://yamankadoura.github.io/Simple-calculator/)
 
 ---
 
